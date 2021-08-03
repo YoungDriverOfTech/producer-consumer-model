@@ -1,9 +1,7 @@
 package blokingQueue;
 
-import java.util.Optional;
 import java.util.Random;
 import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.locks.ReentrantLock;
 
 public class Producer extends Thread{
 
